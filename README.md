@@ -5,4 +5,4 @@
 
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santigo-zero)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santigo-zero)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santigo-zero&exclude_repo=Neovim)](https://github.com/anuraghazra/github-readme-stats)
