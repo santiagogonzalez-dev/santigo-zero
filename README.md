@@ -1,4 +1,4 @@
-- I’m currently learning Java, Python, Shell scripting
+- I’m currently learning Linux in general, Shell Scripting, Java and Python
 - Would love to collaborate on more FOSS projects
 - How to reach me: santiagogonzalezbogado@gmail.com
 - Or [Linkedin](https://www.linkedin.com/in/santiago-gonzalez-62557221b/)
