@@ -1,6 +1,7 @@
 - I’m currently learning JavaScript, Python and Linux in general
 - Would love to collaborate on more FOSS projects
-- Do you want to know more about me? Check [my website](https://santigo-zero.github.io)
+- [Website](https://www.santiagogonzalez.dev/)
+- [Blog](https://www.santiagogonzalez.dev/)
 - How to reach me: santiagogonzalezbogado@gmail.com
 - Or [Linkedin](https://www.linkedin.com/in/santiago-gonzalez-62557221b/)
 
